@@ -1,0 +1,10 @@
+{
+  "version": "2.0.7",
+  "extension_id": "fcfhplploccackoneaefokcmbjfbkenj",
+  "settings": {
+    "location": "US",
+    "protocol": "automatic",
+    "encryption": "automatic",
+    "auto_connect": true
+  }
+}
